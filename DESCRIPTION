@@ -1,0 +1,11 @@
+Package: scmoas
+Title: Single-cell Multiomics Data Toolkit
+Version: 0.0.0.9001
+Authors@R: 
+    person(given = "Zhen", family = "Yuan", email = "wddyz@stu.njmu.edu.cn", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-4980-6681"))
+Description: Based on bed format and Seurat structure, it allows operation, analysis, and visualization of single-cell multiomics data.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
